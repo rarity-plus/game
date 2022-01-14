@@ -1,0 +1,10 @@
+<Project Sdk="Godot.NET.Sdk/3.3.0">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Nethereum" Version="0.95.0--date20210125-0551.git-05a29e9" />
+    <PackageReference Include="Nethereum.Signer" Version="4.1.1" />
+    <PackageReference Include="Nethereum.Web3" Version="4.1.1" />
+  </ItemGroup>
+</Project>
